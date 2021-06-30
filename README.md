@@ -2,6 +2,8 @@
 1. **[Datasets](https://github.com/Aryan05/EEG-Datasets)**
 2. **[Link to my Abstract Research Paper](https://drive.google.com/file/d/16cq5Ty7G8bhE7XBZeqt2OUUrW80ZaxHN/view?usp=sharing)**
 
+### Funding By- Neuro Cardio & Multispeciality Hospital Pvt. Ltd.
+### Members- Bhimendra Yadav(Government Medical College, Kota) , Abhishek Karn (kIIT University)
 
 ### ABSTRACT
 In this project, the main motivation was to construct images from person’s spoken words . We have designed and trained a deep
