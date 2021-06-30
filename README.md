@@ -33,7 +33,10 @@ closely oure model predicts.
 </p>
 
 ## Funding By- Neuro Cardio & Multispeciality Hospital Pvt. Ltd.
-## Members- Bhimendra Yadav(Government Medical College, Kota) , Abhishek Karn (kIIT University) 
+## Members- 
+Aryan Karn ( MNNIT Allahabad ),
+Bhimendra Yadav( Government Medical College, Kota ) , 
+Abhishek Karn ( KIIT University ) 
     
 
 
