@@ -1,0 +1,6 @@
+data/*.mff
+data/*.npy
+ckpt
+rane_notebooks
+__pycache__
+.ipynb_checkpoints
